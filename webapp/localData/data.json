@@ -1,0 +1,34 @@
+{
+	"details" : [
+		{
+			"billNo" : "101",
+			"billDt" : "12102019",
+			"dueDt" : "30102019",
+			"billPymt" : "P"
+		},
+		{
+			"billNo" : "102",
+			"billDt" : "16092019",
+			"dueDt" : "30092019",
+			"billPymt" : "D"
+		},
+		{
+			"billNo" : "103",
+			"billDt" : "12102019",
+			"dueDt" : "30102019",
+			"billPymt" : "N"
+		},
+		{
+			"billNo" : "104",
+			"billDt" : "24102019",
+			"dueDt" : "30112019",
+			"billPymt" : "P"
+		},
+		{
+			"billNo" : "105",
+			"billDt" : "02112019",
+			"dueDt" : "30112019",
+			"billPymt" : "D"
+		}
+		]
+}
